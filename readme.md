@@ -1,6 +1,6 @@
 # Unit Testing in Node.js
 
-![Build Status](http://100.24.19.122:8080/buildStatus/icon?job=nodejs-pipeline "http://100.24.19.122:8080/job/nodejs-pipeline/")
+[![Build Status](http://100.24.19.122:8080/buildStatus/icon?job=nodejs-pipeline)](http://100.24.19.122:8080/job/nodejs-pipeline/)
 [![Code Quality Grade](https://api.codacy.com/project/badge/Grade/6b793dc0759b4b22a73f4d7eae0d6983)](https://www.codacy.com/app/lissy93/quick-example-of-testing-in-nodejs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lissy93/quick-example-of-testing-in-nodejs&amp;utm_campaign=Badge_Grade)
 [![Dependency Status](https://david-dm.org/lissy93/quick-example-of-testing-in-nodejs.svg)](https://david-dm.org/lissy93/quick-example-of-testing-in-nodejs)
 [![devDependency Status](https://david-dm.org/lissy93/quick-example-of-testing-in-nodejs/dev-status.svg)](https://david-dm.org/lissy93/quick-example-of-testing-in-nodejs#info=devDependencies)
